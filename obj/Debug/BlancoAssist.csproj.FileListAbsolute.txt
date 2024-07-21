@@ -1,0 +1,59 @@
+C:\Dev\Blanco\BlancoAssist\bin\Debug\BlancoAssist.exe.config
+C:\Dev\Blanco\BlancoAssist\bin\Debug\BlancoAssist.exe
+C:\Dev\Blanco\BlancoAssist\bin\Debug\BlancoAssist.pdb
+C:\Dev\Blanco\BlancoAssist\obj\Debug\BlancoAssist.csproj.AssemblyReference.cache
+C:\Dev\Blanco\BlancoAssist\obj\Debug\BlancoAssist.Properties.Resources.resources
+C:\Dev\Blanco\BlancoAssist\obj\Debug\BlancoAssist.csproj.GenerateResource.cache
+C:\Dev\Blanco\BlancoAssist\obj\Debug\BlancoAssist.csproj.CoreCompileInputs.cache
+C:\Dev\Blanco\BlancoAssist\obj\Debug\BlancoAssist.exe
+C:\Dev\Blanco\BlancoAssist\obj\Debug\BlancoAssist.pdb
+C:\Dev\Blanco\BlancoAssist\obj\Debug\BlancoAssist.FormMain.resources
+C:\Dev\Blanco\BlancoAssist\obj\Debug\BlancoAssist.FormRechnung.resources
+C:\Dev\Blanco\BlancoAssist - v0.5.0 -stable\bin\Debug\BlancoAssist.exe.config
+C:\Dev\Blanco\BlancoAssist - v0.5.0 -stable\bin\Debug\BlancoAssist.exe
+C:\Dev\Blanco\BlancoAssist - v0.5.0 -stable\bin\Debug\BlancoAssist.pdb
+C:\Dev\Blanco\BlancoAssist - v0.5.0 -stable\bin\Debug\MaterialSkin.dll
+C:\Dev\Blanco\BlancoAssist - v0.5.0 -stable\obj\Debug\BlancoAssist.csproj.AssemblyReference.cache
+C:\Dev\Blanco\BlancoAssist - v0.5.0 -stable\obj\Debug\BlancoAssist.FormMain.resources
+C:\Dev\Blanco\BlancoAssist - v0.5.0 -stable\obj\Debug\BlancoAssist.FormRechnung.resources
+C:\Dev\Blanco\BlancoAssist - v0.5.0 -stable\obj\Debug\BlancoAssist.Properties.Resources.resources
+C:\Dev\Blanco\BlancoAssist - v0.5.0 -stable\obj\Debug\BlancoAssist.csproj.GenerateResource.cache
+C:\Dev\Blanco\BlancoAssist - v0.5.0 -stable\obj\Debug\BlancoAssist.csproj.CoreCompileInputs.cache
+C:\Dev\Blanco\BlancoAssist - v0.5.0 -stable\obj\Debug\BlancoAs.EAA74D98.Up2Date
+C:\Dev\Blanco\BlancoAssist - v0.5.0 -stable\obj\Debug\BlancoAssist.exe
+C:\Dev\Blanco\BlancoAssist - v0.5.0 -stable\obj\Debug\BlancoAssist.pdb
+C:\Dev\Blanco\BlancoAssist - v0.5.0 -stable\obj\Debug\BlancoAssist.Form1.resources
+C:\Dev\Blanco\BlancoAssist - v0.5.0 -stable\obj\Debug\BlancoAssist.FormRechnung2.resources
+C:\Dev\Blanco\BlancoAssist - v0.5.0 -stable\obj\Debug\BlancoAssist.BaseBlancoForm.resources
+C:\Dev\Blanco\BlancoAssist - v1.5\obj\Debug\BlancoAssist.csproj.AssemblyReference.cache
+C:\Dev\Blanco\BlancoAssist - v1.5\obj\Debug\BlancoAssist.BaseBlancoForm.resources
+C:\Dev\Blanco\BlancoAssist - v1.5\obj\Debug\BlancoAssist.Form1.resources
+C:\Dev\Blanco\BlancoAssist - v1.5\obj\Debug\BlancoAssist.FormMain.resources
+C:\Dev\Blanco\BlancoAssist - v1.5\obj\Debug\BlancoAssist.FormRechnung2.resources
+C:\Dev\Blanco\BlancoAssist - v1.5\obj\Debug\BlancoAssist.FormRechnung.resources
+C:\Dev\Blanco\BlancoAssist - v1.5\obj\Debug\BlancoAssist.Properties.Resources.resources
+C:\Dev\Blanco\BlancoAssist - v1.5\obj\Debug\BlancoAssist.csproj.GenerateResource.cache
+C:\Dev\Blanco\BlancoAssist - v1.5\obj\Debug\BlancoAssist.csproj.CoreCompileInputs.cache
+C:\Dev\Blanco\BlancoAssist - v1.5\obj\Debug\BlancoAssist.exe
+C:\Dev\Blanco\BlancoAssist - v1.5\obj\Debug\BlancoAssist.pdb
+C:\Dev\Blanco\BlancoAssist - v1.5\bin\Debug\BlancoAssist.exe.config
+C:\Dev\Blanco\BlancoAssist - v1.5\bin\Debug\BlancoAssist.exe
+C:\Dev\Blanco\BlancoAssist - v1.5\bin\Debug\BlancoAssist.pdb
+C:\Dev\Blanco\BlancoAssist - v1.5\bin\Debug\MaterialSkin.dll
+C:\Dev\Blanco\BlancoAssist - v1.5\obj\Debug\BlancoAs.EAA74D98.Up2Date
+C:\Dev\Blanco\BlancoAssist - v1.7 database add cols\obj\Debug\BlancoAssist.csproj.AssemblyReference.cache
+C:\Dev\Blanco\BlancoAssist - v1.7 database add cols\obj\Debug\BlancoAssist.BaseBlancoForm.resources
+C:\Dev\Blanco\BlancoAssist - v1.7 database add cols\obj\Debug\BlancoAssist.Form1.resources
+C:\Dev\Blanco\BlancoAssist - v1.7 database add cols\obj\Debug\BlancoAssist.FormMain.resources
+C:\Dev\Blanco\BlancoAssist - v1.7 database add cols\obj\Debug\BlancoAssist.FormRechnung2.resources
+C:\Dev\Blanco\BlancoAssist - v1.7 database add cols\obj\Debug\BlancoAssist.FormRechnung.resources
+C:\Dev\Blanco\BlancoAssist - v1.7 database add cols\obj\Debug\BlancoAssist.Properties.Resources.resources
+C:\Dev\Blanco\BlancoAssist - v1.7 database add cols\obj\Debug\BlancoAssist.csproj.GenerateResource.cache
+C:\Dev\Blanco\BlancoAssist - v1.7 database add cols\obj\Debug\BlancoAssist.csproj.CoreCompileInputs.cache
+C:\Dev\Blanco\BlancoAssist - v1.7 database add cols\obj\Debug\BlancoAssist.exe
+C:\Dev\Blanco\BlancoAssist - v1.7 database add cols\obj\Debug\BlancoAssist.pdb
+C:\Dev\Blanco\BlancoAssist - v1.7 database add cols\bin\Debug\BlancoAssist.exe.config
+C:\Dev\Blanco\BlancoAssist - v1.7 database add cols\bin\Debug\BlancoAssist.exe
+C:\Dev\Blanco\BlancoAssist - v1.7 database add cols\bin\Debug\BlancoAssist.pdb
+C:\Dev\Blanco\BlancoAssist - v1.7 database add cols\bin\Debug\MaterialSkin.dll
+C:\Dev\Blanco\BlancoAssist - v1.7 database add cols\obj\Debug\BlancoAs.EAA74D98.Up2Date
